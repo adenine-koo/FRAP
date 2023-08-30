@@ -1,0 +1,24 @@
+For selecting the optimal motioncorrect buffer size:
+All movies were run through a buffer of 5 first with the savemovie option ON (savemovie == 1), the output avi files were inspected manually.
+For movies with out-of-frame doughnut, the movie was reanalysed with a larger buffer (10, 15, 20 etc.)
+
+Note: The buffer does not need to be in an increment of 5, just user preference.
+Also note that larger buffer size increases the run time, typically 20 is enough to correct the frameshift good enough.
+
+For movies not listed, a default buffer of 5 was used.
+
+230721 FRAP:
+L003 - 10
+S003 - 0
+S006 - 10
+
+230804 FRAP 2:
+L001 - 10
+
+230807 FRAP 3:
+L001 - 10
+L003 - 20
+L005 - 20
+S001 - 10
+S004 - 10
+S006 - 20
