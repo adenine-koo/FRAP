@@ -24,9 +24,9 @@
 % Optional: an avi file of the cropped doughnut could be saved if needed
 
 % Syntax for generating csv files and cropped ROI movie
-% ROIcropv1("infile.txt", buffer, 1);
+% frapROI2csv("infile.txt", buffer, 1);
 % Syntax for generating csv files ONLY
-% ROIcropv1("infile.txt", buffer, 0);
+% frapROI2csv("infile.txt", buffer, 0);
 
 % First argument: infile.txt
 % The first line of infile.txt specifies the data folder path to nd2 files 
