@@ -1,0 +1,6 @@
+C:\Users\Videos\Path to Data Folder
+Short
+11-Sep-2023-Normalised-S1.csv
+11-Sep-2023-Normalised-S2.csv
+11-Sep-2023-Normalised-S3.csv
+12-Oct-2023-Normalised-S4.csv
