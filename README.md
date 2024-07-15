@@ -26,5 +26,5 @@ Step 3: expfitting.m
 For detailed documentation, please check the comment section of the functions.
 For help with selecting optimal motioncorrect buffer, read motioncorrectParameter.txt file
 
-Sample nd2 file and timestamps.xlsx file are provided under the folder "Test file". Unzip nd2 file before used.
+For each function, sample infile.txt and the required test files are provided under the corresponding "Test Files" folder. For frapROI2csv.m, unzip the provided nd2 file (S001.7z) before used.
 Sample outputs are also provided.
